@@ -16,7 +16,7 @@
   
 - :telescope: I'm looking for my first serious job in the IT industry.
 
-- :seedling: Now I am studying in the Data Analyst course in Karpov Сourses.
+- :seedling: I'm currently learning Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly, Pinguoin, Scipy Stats), SQL (PostgreSQL).
 
 - :zap: In my free time, I study statistics, watch thematic webinars and listen to podcasts about analytics.
 
