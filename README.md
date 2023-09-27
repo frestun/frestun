@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/KyEVbCTKDIxo6mesdt/giphy.gif" width="400" height="300"/>
 </div>
 
-## About Me:
+### About Me:
 
 - :woman_technologist: I am a Junior Data Analyst from Russia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
@@ -22,7 +22,8 @@
 
 - :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/frestun)
 ---
-## :hammer_and_wrench: Languages and Tools :  
+
+### :hammer_and_wrench: Languages and Tools :  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
@@ -30,3 +31,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python " width="40" height="40"/>  
 </div>
+---
+
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frestun&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frestun&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frestun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
