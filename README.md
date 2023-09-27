@@ -9,3 +9,4 @@
 <div align="center">
   <img src="https://media.giphy.com/media/KyEVbCTKDIxo6mesdt/giphy.gif" width="400" height="300"/>
 </div>
+### :woman_technologist: About Me : I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
